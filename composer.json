@@ -1,5 +1,5 @@
 {
-    "name": "mop/arangodbbundle",
+    "name": "dalv/arangodbbundle",
     "description": "Symfony2 integration for ArangoDB",
     "authors": [
         {
